@@ -477,12 +477,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Emotional response to sensory inputs
 - [ ] Cross-modal sensory learning
 
-## 📞 Contact
-
-- **Project Link**: [https://github.com/yourusername/sensory-ai](https://github.com/yourusername/sensory-ai)
-- **Issues**: [https://github.com/yourusername/sensory-ai/issues](https://github.com/yourusername/sensory-ai/issues)
-
----
 
 **Made with ❤️ for the AI community**
 
