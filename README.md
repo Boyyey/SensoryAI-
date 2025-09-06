@@ -52,7 +52,7 @@ Before running this project, make sure you have:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/sensory-ai.git
+   git clone https://github.com/boyyey/sensory-ai.git
    ```
 
 2. **Install dependencies**:
